@@ -1,2 +1,3 @@
 # Topology-Optimization
-A package for multi-phase topology optimization
+A program for multi-phase topology optimization
+This program requires Dealii Finite Element Analysis package installation
